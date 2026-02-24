@@ -1,7 +1,7 @@
 # Hi 👋, I'm André Zerger
 
-🚀 **Junior Python Developer | Data Analysis & Automations**  
-🇧🇷 Brazil
+🚀 **Junior Python Developer | Data Analysis & Automations** 
+📍 Brazil
 
 I study **System analysis & development**.  
 I’m deeply focused on **Data Analysis, Artificial Inteligence and Automations using Python language**.
@@ -16,6 +16,7 @@ I'm also learning about **API'S and Data Bases**.
   <a href="https://github.com/Andrezerg1">
     <img src="https://img.shields.io/badge/GitHub-ANDRÉZERGER-181717?style=for-the-badge&logo=github" />
   </a>
+  
   <a href="https://www.linkedin.com/in/andre-zerger-89a3682b6/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
